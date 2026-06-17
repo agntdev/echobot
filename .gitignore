@@ -1,0 +1,5 @@
+node_modules/
+# Anchor to the bot's OWN build output only — do NOT ignore the vendored,
+# pre-built vendor/bot-toolkit/dist/ (the deprecated toolkit shipped in-repo).
+/dist/
+*.tsbuildinfo
