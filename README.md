@@ -1,0 +1,7 @@
+# EchoBot
+
+Minimal Telegram bot: /start greeting, /echo <text> replies and increments a global counter, /count shows total.
+
+Spec: [`docs/spec.md`](docs/spec.md).
+
+Built on [agnt-gm.ai](https://agnt-gm.ai). Contributions across every build phase (design → details → dev → tests) land here as pull requests — open a PR titled with the task slug (e.g. `[T01] …`) to claim a bounty.
